@@ -1,0 +1,11 @@
+
+new-mexico-lobos,Tuioti, Tevaka,3,38,77,49.4%,25.7,660,8.6,220.0,4,4,62,1,2,6,128.1,
+new-mexico-lobos,Jones, Sheriron,1,17,42,40.5%,42.0,268,6.4,268.0,2,6,47,0,0,0,81.2,
+new-mexico-lobos,Hughes, Brandt,1,12,29,41.4%,29.0,218,7.5,218.0,0,0,51,0,0,0,104.5,
+new-mexico-lobos,Drennan, Q&#39;,0,0,1,0.0%,-,0,0.0,-,0,0,0,0,0,0,0.0,
+new-mexico-lobos,Tuioti, Tevaka,3,38,77,49.4%,25.7,660,8.6,220.0,4,4,62,1,2,6,128.1,
+new-mexico-lobos,Jones, Sheriron,1,17,42,40.5%,42.0,268,6.4,268.0,2,6,47,0,0,0,81.2,
+new-mexico-lobos,Hughes, Brandt,1,12,29,41.4%,29.0,218,7.5,218.0,0,0,51,0,0,0,104.5,
+new-mexico-lobos,Drennan, Q&#39;,0,0,1,0.0%,-,0,0.0,-,0,0,0,0,0,0,0.0,
+san-jose-state-spartans,Love, Josh,5,112,181,61.9%,36.2,1418,7.8,283.6,7,1,80,2,7,71,139.3,
+san-jose-state-spartans,Nash, Nick,0,12,17,70.6%,-,133,7.8,-,2,0,30,0,0,0,175.1,
