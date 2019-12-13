@@ -1,0 +1,130 @@
+[
+    {
+        "name": "ARI",
+        "id": 0
+    },
+    {
+        "name": "ATL",
+        "id": 1
+    },
+    {
+        "name": "BAL",
+        "id": 2
+    },
+    {
+        "name": "BUF",
+        "id": 3
+    },
+    {
+        "name": "CAR",
+        "id": 4
+    },
+    {
+        "name": "CHI",
+        "id": 5
+    },
+    {
+        "name": "CIN",
+        "id": 6
+    },
+    {
+        "name": "CLE",
+        "id": 7
+    },
+    {
+        "name": "DAL",
+        "id": 8
+    },
+    {
+        "name": "DEN",
+        "id": 9
+    },
+    {
+        "name": "DET",
+        "id": 10
+    },
+    {
+        "name": "GB",
+        "id": 11
+    },
+    {
+        "name": "HOU",
+        "id": 12
+    },
+    {
+        "name": "IND",
+        "id": 13
+    },
+    {
+        "name": "JAX",
+        "id": 14
+    },
+    {
+        "name": "KC",
+        "id": 15
+    },
+    {
+        "name": "LAC",
+        "id": 16
+    },
+    {
+        "name": "LAR",
+        "id": 17
+    },
+    {
+        "name": "MIA",
+        "id": 18
+    },
+    {
+        "name": "MIN",
+        "id": 19
+    },
+    {
+        "name": "NE",
+        "id": 20
+    },
+    {
+        "name": "NO",
+        "id": 21
+    },
+    {
+        "name": "NYG",
+        "id": 22
+    },
+    {
+        "name": "NYJ",
+        "id": 23
+    },
+    {
+        "name": "OAK",
+        "id": 24
+    },
+    {
+        "name": "PHI",
+        "id": 25
+    },
+    {
+        "name": "PIT",
+        "id": 26
+    },
+    {
+        "name": "SF",
+        "id": 27
+    },
+    {
+        "name": "SEA",
+        "id": 28
+    },
+    {
+        "name": "TB",
+        "id": 29
+    },
+    {
+        "name": "TEN",
+        "id": 30
+    },
+    {
+        "name": "WAS",
+        "id": 31
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+      "id": 0,
+      "name": "ATL"
+    },
+    {
+      "id": 1,
+      "name": "BOS"
+    },
+    {
+      "id": 2,
+      "name": "BKN"
+    },
+    {
+      "id": 3,
+      "name": "CHA"
+    },
+    {
+      "id": 4,
+      "name": "CHI"
+    },
+    {
+      "id": 5,
+      "name": "CLE"
+    },
+    {
+      "id": 6,
+      "name": "DAL"
+    },
+    {
+      "id": 7,
+      "name": "DEN"
+    },
+    {
+      "id": 8,
+      "name": "DET"
+    },
+    {
+      "id": 9,
+      "name": "GS"
+    },
+    {
+      "id": 10,
+      "name": "HOU"
+    },
+    {
+      "id": 11,
+      "name": "IND"
+    },
+    {
+      "id": 12,
+      "name": "LAC"
+    },
+    {
+      "id": 13,
+      "name": "LAL"
+    },
+    {
+      "id": 14,
+      "name": "MEM"
+    },
+    {
+      "id": 15,
+      "name": "MIA"
+    },
+    {
+      "id": 16,
+      "name": "MIL"
+    },
+    {
+      "id": 17,
+      "name": "MIN"
+    },
+    {
+      "id": 18,
+      "name": "NO"
+    },
+    {
+      "id": 19,
+      "name": "NYK"
+    },
+    {
+      "id": 20,
+      "name": "OKC"
+    },
+    {
+      "id": 21,
+      "name": "ORL"
+    },
+    {
+      "id": 22,
+      "name": "PHI"
+    },
+    {
+      "id": 23,
+      "name": "PHX"
+    },
+    {
+      "id": 24,
+      "name": "POR"
+    },
+    {
+      "id": 25,
+      "name": "SAC"
+    },
+    {
+      "id": 26,
+      "name": "SAS"
+    },
+    {
+      "id": 27,
+      "name": "UTH"
+    },
+    {
+      "id": 28,
+      "name": "TOR"
+    },
+    {
+      "id": 29,
+      "name": "WAS"
+    }
+  ]
