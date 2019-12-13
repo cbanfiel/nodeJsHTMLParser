@@ -414,13 +414,13 @@ exports.generatePlayer = function generatePlayer(pos, rating) {
       // let maxChange = 5;
       console.log(team.rank);
       let rating = 0;
-      // if(team.rank <= 25){
-      // rating = Math.round(scaleBetween(team.rank, 93,84,1,25));
-      // }else{
-      // rating = Math.round(scaleBetween(team.rank, 84,69,25,130));
-      // }
+      if(team.rank <= 25){
+      rating = Math.round(scaleBetween(team.rank, 93,84,1,25));
+      }else{
+      rating = Math.round(scaleBetween(team.rank, 84,69,25,130));
+      }
 
-      rating = Math.round(scaleBetween(team.rank, 94,68,1,130));
+      // rating = Math.round(scaleBetween(team.rank, 94,68,1,130));
 
       
   console.log(`${team.name} old:${oldRating} new:${rating}`);
@@ -431,7 +431,7 @@ exports.generatePlayer = function generatePlayer(pos, rating) {
 
           for (let i = 0; i < team.roster.length; i++) {
             let ply = team.roster[i];
-            let scaledMovement = Math.round(scaleBetween(ply.rating, 0,5,60,99));
+            let scaledMovement = Math.round(scaleBetween(ply.rating, 0,3,60,99));
 
             ply.awareness -=scaledMovement;
             if(ply.position === POS_QB){
@@ -480,7 +480,7 @@ exports.generatePlayer = function generatePlayer(pos, rating) {
         while (team.rating != rating) {
           for (let i = 0; i < team.roster.length; i++) {
             let ply = team.roster[i];
-            let scaledMovement = Math.round(scaleBetween(ply.rating, 5,0,60,99));
+            let scaledMovement = Math.round(scaleBetween(ply.rating, 3,0,60,99));
 
             ply.awareness += scaledMovement;
             if(ply.position === POS_QB){
