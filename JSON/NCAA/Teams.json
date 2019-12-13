@@ -1,0 +1,1026 @@
+[
+  {
+    "name": "Air Force Falcons",
+    "id": 1,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2005.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 34
+  },
+  {
+    "name": "Akron Zips",
+    "id": 2,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2006.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 129
+  },
+  {
+    "name": "Alabama Crimson Tide",
+    "id": 3,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/333.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 1
+  },
+  {
+    "name": "Arizona Wildcats",
+    "id": 4,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/12.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 46
+  },
+  {
+    "name": "Arizona State Sun Devils",
+    "id": 5,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/9.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 20
+  },
+  {
+    "name": "Arkansas Razorbacks",
+    "id": 6,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/8.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 92
+  },
+  {
+    "name": "Arkansas State Red Wolves",
+    "id": 7,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2032.png&w=200",
+    "conferenceId": 1,
+    "division": 13,
+    "opsRank": 59
+  },
+  {
+    "name": "Army Black Knights",
+    "id": 8,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/349.png&w=200",
+    "conferenceId": 1,
+    "division": 5,
+    "opsRank": 58
+  },
+  {
+    "name": "Auburn Tigers",
+    "id": 9,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 7
+  },
+  {
+    "name": "Ball State Cardinals",
+    "id": 10,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2050.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 87
+  },
+  {
+    "name": "Baylor Bears",
+    "id": 11,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/239.png&w=200",
+    "conferenceId": 0,
+    "division": 2,
+    "opsRank": 42
+  },
+  {
+    "name": "Boise State Broncos",
+    "id": 12,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/68.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 16
+  },
+  {
+    "name": "Boston College Eagles",
+    "id": 13,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/103.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 91
+  },
+  {
+    "name": "Bowling Green Falcons",
+    "id": 14,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/189.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 127
+  },
+  {
+    "name": "Buffalo Bulls",
+    "id": 15,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2084.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 86
+  },
+  {
+    "name": "BYU Cougars",
+    "id": 16,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/252.png&w=200",
+    "conferenceId": 1,
+    "division": 5,
+    "opsRank": 84
+  },
+  {
+    "name": "California Golden Bears",
+    "id": 17,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/25.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 43
+  },
+  {
+    "name": "UCF Knights",
+    "id": 18,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2116.png&w=200",
+    "conferenceId": 1,
+    "division": 3,
+    "opsRank": 18
+  },
+  {
+    "name": "Central Michigan Chippewas",
+    "id": 19,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2117.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 104
+  },
+  {
+    "name": "Cincinnati Bearcats",
+    "id": 20,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2132.png&w=200",
+    "conferenceId": 1,
+    "division": 3,
+    "opsRank": 27
+  },
+  {
+    "name": "Clemson Tigers",
+    "id": 21,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/228.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 2
+  },
+  {
+    "name": "Colorado Buffaloes",
+    "id": 22,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/38.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 32
+  },
+  {
+    "name": "Colorado State Rams",
+    "id": 23,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/36.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 107
+  },
+  {
+    "name": "Duke Blue Devils",
+    "id": 24,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 37
+  },
+  {
+    "name": "East Carolina Pirates",
+    "id": 25,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/151.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 113
+  },
+  {
+    "name": "Eastern Michigan Eagles",
+    "id": 26,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2199.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 100
+  },
+  {
+    "name": "Florida Gators",
+    "id": 27,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/57.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 10
+  },
+  {
+    "name": "Florida State Seminoles",
+    "id": 28,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/52.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 39
+  },
+  {
+    "name": "Fresno State Bulldogs",
+    "id": 29,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/278.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 93
+  },
+  {
+    "name": "Georgia Bulldogs",
+    "id": 30,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/61.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 3
+  },
+  {
+    "name": "Georgia Tech Yellow Jackets",
+    "id": 31,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/59.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 116
+  },
+  {
+    "name": "Hawaii Rainbow Warriors",
+    "id": 32,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/62.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 48
+  },
+  {
+    "name": "Houston Cougars",
+    "id": 33,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/248.png&w=200",
+    "conferenceId": 1,
+    "division": 3,
+    "opsRank": 57
+  },
+  {
+    "name": "Idaho Vandals",
+    "id": 34,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/70.png&w=200",
+    "conferenceId": 1,
+    "division": 5,
+    "opsRank": 131
+  },
+  {
+    "name": "Illinois Fighting Illini",
+    "id": 35,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/356.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 101
+  },
+  {
+    "name": "Indiana Hoosiers",
+    "id": 36,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/84.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 41
+  },
+  {
+    "name": "Iowa Hawkeyes",
+    "id": 37,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2294.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 14
+  },
+  {
+    "name": "Iowa State Cyclones",
+    "id": 38,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&w=200",
+    "conferenceId": 0,
+    "division": 2,
+    "opsRank": 50
+  },
+  {
+    "name": "Kansas Jayhawks",
+    "id": 39,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2305.png&w=200",
+    "conferenceId": 0,
+    "division": 2,
+    "opsRank": 94
+  },
+  {
+    "name": "Kansas State Wildcats",
+    "id": 40,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2306.png&w=200",
+    "conferenceId": 0,
+    "division": 2,
+    "opsRank": 36
+  },
+  {
+    "name": "Kent State Golden Flashes",
+    "id": 41,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2309.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 88
+  },
+  {
+    "name": "Kentucky Wildcats",
+    "id": 42,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/96.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 61
+  },
+  {
+    "name": "Louisiana Tech Bulldogs",
+    "id": 43,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2348.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 80
+  },
+  {
+    "name": "Louisville Cardinals",
+    "id": 44,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/97.png&w=200",
+    "conferenceId": 1,
+    "division": 3,
+    "opsRank": 65
+  },
+  {
+    "name": "LSU Tigers",
+    "id": 45,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/99.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 5
+  },
+  {
+    "name": "Marshall Thundering Herd",
+    "id": 46,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/276.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 67
+  },
+  {
+    "name": "Maryland Terrapins",
+    "id": 47,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/120.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 47
+  },
+  {
+    "name": "Memphis Tigers",
+    "id": 48,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/235.png&w=200",
+    "conferenceId": 1,
+    "division": 3,
+    "opsRank": 33
+  },
+  {
+    "name": "Miami Hurricanes",
+    "id": 49,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2390.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 63
+  },
+  {
+    "name": "Miami (OH) RedHawks",
+    "id": 50,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/193.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 64
+  },
+  {
+    "name": "Michigan Wolverines",
+    "id": 51,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/130.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 19
+  },
+  {
+    "name": "Michigan State Spartans",
+    "id": 52,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/127.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 25
+  },
+  {
+    "name": "Mid Tenn State Blue Raiders",
+    "id": 53,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2393.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 106
+  },
+  {
+    "name": "Minnesota Golden Gophers",
+    "id": 54,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/135.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 83
+  },
+  {
+    "name": "Mississippi State Bulldogs",
+    "id": 55,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/344.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 30
+  },
+  {
+    "name": "Missouri Tigers",
+    "id": 56,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/142.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 28
+  },
+  {
+    "name": "Navy Midshipmen",
+    "id": 57,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2426.png&w=200",
+    "conferenceId": 1,
+    "division": 5,
+    "opsRank": 45
+  },
+  {
+    "name": "Nebraska Cornhuskers",
+    "id": 58,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/158.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 51
+  },
+  {
+    "name": "Nevada Wolf Pack",
+    "id": 59,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2440.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 109
+  },
+  {
+    "name": "New Mexico Lobos",
+    "id": 60,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/167.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 108
+  },
+  {
+    "name": "New Mexico State Aggies",
+    "id": 61,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/166.png&w=200",
+    "conferenceId": 1,
+    "division": 5,
+    "opsRank": 126
+  },
+  {
+    "name": "North Carolina Tar Heels",
+    "id": 62,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 40
+  },
+  {
+    "name": "NC State Wolfpack",
+    "id": 63,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/152.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 71
+  },
+  {
+    "name": "North Texas Mean Green",
+    "id": 64,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/249.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 79
+  },
+  {
+    "name": "ULM Warhawks",
+    "id": 65,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2433.png&w=200",
+    "conferenceId": 1,
+    "division": 13,
+    "opsRank": 89
+  },
+  {
+    "name": "Northern Illinois Huskies",
+    "id": 66,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2459.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 118
+  },
+  {
+    "name": "Northwestern Wildcats",
+    "id": 67,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/77.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 76
+  },
+  {
+    "name": "Notre Dame Fighting Irish",
+    "id": 68,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/87.png&w=200",
+    "conferenceId": 1,
+    "division": 5,
+    "opsRank": 9
+  },
+  {
+    "name": "Ohio Bobcats",
+    "id": 69,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/195.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 96
+  },
+  {
+    "name": "Ohio State Buckeyes",
+    "id": 70,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 4
+  },
+  {
+    "name": "Oklahoma Sooners",
+    "id": 71,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/201.png&w=200",
+    "conferenceId": 0,
+    "division": 2,
+    "opsRank": 6
+  },
+  {
+    "name": "Oklahoma State Cowboys",
+    "id": 72,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/197.png&w=200",
+    "conferenceId": 0,
+    "division": 2,
+    "opsRank": 21
+  },
+  {
+    "name": "Ole Miss Rebels",
+    "id": 73,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/145.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 68
+  },
+  {
+    "name": "Oregon Ducks",
+    "id": 74,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2483.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 13
+  },
+  {
+    "name": "Oregon State Beavers",
+    "id": 75,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/204.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 78
+  },
+  {
+    "name": "Penn State Nittany Lions",
+    "id": 76,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 12
+  },
+  {
+    "name": "Pittsburgh Panthers",
+    "id": 77,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/221.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 60
+  },
+  {
+    "name": "Purdue Boilermakers",
+    "id": 78,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 103
+  },
+  {
+    "name": "Rice Owls",
+    "id": 79,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/242.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 99
+  },
+  {
+    "name": "Rutgers Scarlet Knights",
+    "id": 80,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png&w=200",
+    "conferenceId": 1,
+    "division": 3,
+    "opsRank": 119
+  },
+  {
+    "name": "San Diego State Aztecs",
+    "id": 81,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/21.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 70
+  },
+  {
+    "name": "San Jose State Spartans",
+    "id": 82,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/23.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 95
+  },
+  {
+    "name": "SMU Mustangs",
+    "id": 83,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2567.png&w=200",
+    "conferenceId": 1,
+    "division": 3,
+    "opsRank": 24
+  },
+  {
+    "name": "South Carolina Gamecocks",
+    "id": 84,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2579.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 56
+  },
+  {
+    "name": "Southern Miss Golden Eagles",
+    "id": 85,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2572.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 74
+  },
+  {
+    "name": "Louisiana Ragin' Cajuns",
+    "id": 86,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/309.png&w=200",
+    "conferenceId": 1,
+    "division": 13,
+    "opsRank": 35
+  },
+  {
+    "name": "Stanford Cardinal",
+    "id": 87,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/24.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 81
+  },
+  {
+    "name": "Syracuse Orange",
+    "id": 88,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/183.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 49
+  },
+  {
+    "name": "TCU Horned Frogs",
+    "id": 89,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2628.png&w=200",
+    "conferenceId": 0,
+    "division": 2,
+    "opsRank": 29
+  },
+  {
+    "name": "Temple Owls",
+    "id": 90,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/218.png&w=200",
+    "conferenceId": 1,
+    "division": 3,
+    "opsRank": 62
+  },
+  {
+    "name": "Tennessee Volunteers",
+    "id": 91,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2633.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 112
+  },
+  {
+    "name": "Texas Longhorns",
+    "id": 92,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/251.png&w=200",
+    "conferenceId": 0,
+    "division": 2,
+    "opsRank": 11
+  },
+  {
+    "name": "Texas A&M Aggies",
+    "id": 93,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/245.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 26
+  },
+  {
+    "name": "Texas Tech Red Raiders",
+    "id": 94,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2641.png&w=200",
+    "conferenceId": 0,
+    "division": 2,
+    "opsRank": 77
+  },
+  {
+    "name": "Toledo Rockets",
+    "id": 95,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2649.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 73
+  },
+  {
+    "name": "Tulane Green Wave",
+    "id": 96,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2655.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 38
+  },
+  {
+    "name": "Tulsa Golden Hurricane",
+    "id": 97,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/202.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 52
+  },
+  {
+    "name": "UAB Blazers",
+    "id": 98,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/5.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 111
+  },
+  {
+    "name": "UCLA Bruins",
+    "id": 99,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/26.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 72
+  },
+  {
+    "name": "Connecticut Huskies",
+    "id": 100,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/41.png&w=200",
+    "conferenceId": 1,
+    "division": 3,
+    "opsRank": 125
+  },
+  {
+    "name": "UNLV Rebels",
+    "id": 101,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2439.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 121
+  },
+  {
+    "name": "USC Trojans",
+    "id": 102,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/30.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 44
+  },
+  {
+    "name": "Utah Utes",
+    "id": 103,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/254.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 17
+  },
+  {
+    "name": "Utah State Aggies",
+    "id": 104,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/328.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 53
+  },
+  {
+    "name": "UTEP Miners",
+    "id": 105,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2638.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 128
+  },
+  {
+    "name": "Vanderbilt Commodores",
+    "id": 106,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/238.png&w=200",
+    "conferenceId": 1,
+    "division": 11,
+    "opsRank": 114
+  },
+  {
+    "name": "Virginia Cavaliers",
+    "id": 107,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/258.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 23
+  },
+  {
+    "name": "Virginia Tech Hokies",
+    "id": 108,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/259.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 110
+  },
+  {
+    "name": "Wake Forest Demon Deacons",
+    "id": 109,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/154.png&w=200",
+    "conferenceId": 0,
+    "division": 0,
+    "opsRank": 22
+  },
+  {
+    "name": "Washington Huskies",
+    "id": 110,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/264.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 15
+  },
+  {
+    "name": "Washington State Cougars",
+    "id": 111,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/265.png&w=200",
+    "conferenceId": 0,
+    "division": 10,
+    "opsRank": 69
+  },
+  {
+    "name": "West Virginia Mountaineers",
+    "id": 112,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/277.png&w=200",
+    "conferenceId": 0,
+    "division": 2,
+    "opsRank": 75
+  },
+  {
+    "name": "Western Michigan Broncos",
+    "id": 113,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2711.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 66
+  },
+  {
+    "name": "Wisconsin Badgers",
+    "id": 114,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/275.png&w=200",
+    "conferenceId": 1,
+    "division": 1,
+    "opsRank": 8
+  },
+  {
+    "name": "Wyoming Cowboys",
+    "id": 115,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2751.png&w=200",
+    "conferenceId": 1,
+    "division": 9,
+    "opsRank": 54
+  },
+  {
+    "name": "Troy Trojans",
+    "id": 143,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2653.png&w=200",
+    "conferenceId": 1,
+    "division": 13,
+    "opsRank": 85
+  },
+  {
+    "name": "USF Bulls",
+    "id": 144,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/58.png&w=200",
+    "conferenceId": 1,
+    "division": 3,
+    "opsRank": 102
+  },
+  {
+    "name": "UMass Minutemen",
+    "id": 181,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/113.png&w=200",
+    "conferenceId": 1,
+    "division": 17,
+    "opsRank": 130
+  },
+  {
+    "name": "Western Kentucky Hilltoppers",
+    "id": 211,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/98.png&w=200",
+    "conferenceId": 1,
+    "division": 17,
+    "opsRank": 117
+  },
+  {
+    "name": "Texas State Bobcats",
+    "id": 218,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/326.png&w=200",
+    "conferenceId": 1,
+    "division": 17,
+    "opsRank": 98
+  },
+  {
+    "name": "Florida Atlantic Owls",
+    "id": 229,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2226.png&w=200",
+    "conferenceId": 1,
+    "division": 17,
+    "opsRank": 55
+  },
+  {
+    "name": "Florida Internati Golden Panthers",
+    "id": 230,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2229.png&w=200",
+    "conferenceId": 1,
+    "division": 17,
+    "opsRank": 123
+  },
+  {
+    "name": "UTSA Roadrunners",
+    "id": 232,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2636.png&w=200",
+    "conferenceId": 1,
+    "division": 7,
+    "opsRank": 120
+  },
+  {
+    "name": "Georgia State Panthers",
+    "id": 233,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2247.png&w=200",
+    "conferenceId": 1,
+    "division": 13,
+    "opsRank": 115
+  },
+  {
+    "name": "Old Dominion Big Blue",
+    "id": 234,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/295.png&w=200",
+    "conferenceId": 1,
+    "division": 13,
+    "opsRank": 122
+  },
+  {
+    "name": "South Alabama Jaguars",
+    "id": 235,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/6.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 124
+  },
+  {
+    "name": "Appalachian State Mountaineers",
+    "id": 2026,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2026.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 124
+  },
+  {
+    "name": "Liberty Flames",
+    "id": 2335,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2335.png&w=200",
+    "conferenceId": 0,
+    "division": 4,
+    "opsRank": 124
+  }
+]

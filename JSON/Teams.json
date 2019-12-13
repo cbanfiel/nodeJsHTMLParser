@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Arizona Cardinals",
+    "id": 0,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ARI.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Atlanta Falcons",
+    "id": 1,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ATL.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Baltimore Ravens",
+    "id": 2,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/BAL.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Buffalo Bills",
+    "id": 3,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/BUF.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Carolina Panthers",
+    "id": 4,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/CAR.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Chicago Bears",
+    "id": 5,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/CHI.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Cincinnati Bengals",
+    "id": 6,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/CIN.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Cleveland Browns",
+    "id": 7,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/CLE.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Dallas Cowboys",
+    "id": 8,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/DAL.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Denver Broncos",
+    "id": 9,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/DEN.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Detroit Lions",
+    "id": 10,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/DET.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Green Bay Packers",
+    "id": 11,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/GB.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Houston Texans",
+    "id": 12,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/HOU.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Indianapolis Colts",
+    "id": 13,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/IND.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Jacksonville Jaguars",
+    "id": 14,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/JAX.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Kansas City Chiefs",
+    "id": 15,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/KC.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Los Angeles Chargers",
+    "id": 16,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/LAC.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Los Angeles Rams",
+    "id": 17,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/LAR.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Miami Dolphins",
+    "id": 18,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/MIA.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Minnesota Vikings",
+    "id": 19,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/MIN.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "New England Patriots",
+    "id": 20,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/NE.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "New Orleans Saints",
+    "id": 21,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/NO.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "New York Giants",
+    "id": 22,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/NYG.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "New York Jets",
+    "id": 23,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/NYJ.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Oakland Raiders",
+    "id": 24,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/OAK.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Philadelphia Eagles",
+    "id": 25,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/PHI.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Pittsburgh Steelers",
+    "id": 26,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/PIT.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "San Francisco 49ers",
+    "id": 27,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/SF.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Seattle Seahawks",
+    "id": 28,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/SEA.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Tampa Bay Buccaneers",
+    "id": 29,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/TB.png",
+    "conferenceId": 0
+  },
+  {
+    "name": "Tennessee Titans",
+    "id": 30,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/TEN.png",
+    "conferenceId": 1
+  },
+  {
+    "name": "Washington Redskins",
+    "id": 31,
+    "logoSrc": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/WAS.png",
+    "conferenceId": 0
+  }
+]
